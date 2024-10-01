@@ -12,3 +12,4 @@ C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\ne
 C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.pdb
 C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.genruntimeconfig.cache
 C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\ref\HolaMundoProyecto.dll
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.sourcelink.json
