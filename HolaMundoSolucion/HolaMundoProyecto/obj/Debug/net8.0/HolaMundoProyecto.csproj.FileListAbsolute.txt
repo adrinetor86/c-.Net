@@ -1,0 +1,14 @@
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.exe
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.deps.json
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.runtimeconfig.json
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.dll
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\bin\Debug\net8.0\HolaMundoProyecto.pdb
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.AssemblyInfo.cs
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.dll
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\refint\HolaMundoProyecto.dll
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.pdb
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\HolaMundoProyecto.genruntimeconfig.cache
+C:\Users\CursosTardes\Proyectos\HolaMundoSolucion\HolaMundoProyecto\obj\Debug\net8.0\ref\HolaMundoProyecto.dll
