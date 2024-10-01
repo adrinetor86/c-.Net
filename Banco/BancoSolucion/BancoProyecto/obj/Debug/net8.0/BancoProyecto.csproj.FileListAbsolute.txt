@@ -1,0 +1,15 @@
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\bin\Debug\net8.0\BancoProyecto.exe
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\bin\Debug\net8.0\BancoProyecto.deps.json
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\bin\Debug\net8.0\BancoProyecto.runtimeconfig.json
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\bin\Debug\net8.0\BancoProyecto.dll
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\bin\Debug\net8.0\BancoProyecto.pdb
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.AssemblyInfo.cs
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.sourcelink.json
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.dll
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\refint\BancoProyecto.dll
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.pdb
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\BancoProyecto.genruntimeconfig.cache
+C:\Users\CursosTardes\Proyectos\Banco\BancoSolucion\BancoProyecto\obj\Debug\net8.0\ref\BancoProyecto.dll
