@@ -1,0 +1,15 @@
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.AssemblyInfo.cs
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.sourcelink.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\bin\Debug\net8.0\ClaseProyecto.exe
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\bin\Debug\net8.0\ClaseProyecto.deps.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\bin\Debug\net8.0\ClaseProyecto.runtimeconfig.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\bin\Debug\net8.0\ClaseProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\bin\Debug\net8.0\ClaseProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\refint\ClaseProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ClaseProyecto.genruntimeconfig.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\ClaseSolucion\ClaseProyecto\obj\Debug\net8.0\ref\ClaseProyecto.dll

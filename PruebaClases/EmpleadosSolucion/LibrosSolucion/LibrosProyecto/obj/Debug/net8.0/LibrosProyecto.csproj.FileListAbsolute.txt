@@ -1,0 +1,15 @@
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\bin\Debug\net8.0\LibrosProyecto.exe
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\bin\Debug\net8.0\LibrosProyecto.deps.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\bin\Debug\net8.0\LibrosProyecto.runtimeconfig.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\bin\Debug\net8.0\LibrosProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\bin\Debug\net8.0\LibrosProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.AssemblyInfo.cs
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.sourcelink.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\refint\LibrosProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\LibrosProyecto.genruntimeconfig.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\LibrosSolucion\LibrosProyecto\obj\Debug\net8.0\ref\LibrosProyecto.dll

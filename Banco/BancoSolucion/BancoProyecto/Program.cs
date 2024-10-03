@@ -20,20 +20,6 @@
 
             var opcion = int.Parse(Console.ReadLine());
             
-            // if (opcion != 1 || opcion != 2)
-            // {
-            //     Console.WriteLine("Entra"+ opcion);
-            //     do
-            //     {
-            //         Console.WriteLine("Entra");
-            //        opcion = int.Parse(Console.ReadLine());
-            //
-            //         Console.WriteLine("ESCOGE UNA OPCION:\n" +
-            //         "1) Meter dinero en la cuenta\n" +
-            //         "2) Sacar dinero de la cuenta");
-            //     } while (opcion != 1 || opcion != 2);
-            //
-            // }
             bool blnBandera = false;
             //Si añado la D le digo q esa variable sera un double
             var cantidadDinero = 5000D;

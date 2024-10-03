@@ -1,0 +1,15 @@
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\bin\Debug\net8.0\EmpleadosProyecto.exe
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\bin\Debug\net8.0\EmpleadosProyecto.deps.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\bin\Debug\net8.0\EmpleadosProyecto.runtimeconfig.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\bin\Debug\net8.0\EmpleadosProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\bin\Debug\net8.0\EmpleadosProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.AssemblyInfo.cs
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.sourcelink.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\refint\EmpleadosProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\EmpleadosProyecto.genruntimeconfig.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\EmpleadosSolucion\EmpleadosProyecto\obj\Debug\net8.0\ref\EmpleadosProyecto.dll

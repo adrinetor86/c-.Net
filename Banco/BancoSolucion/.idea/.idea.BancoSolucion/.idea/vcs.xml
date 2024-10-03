@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../PruebaClon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../PruebaClon2" vcs="Git" />
   </component>
 </project>

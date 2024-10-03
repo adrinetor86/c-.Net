@@ -1,0 +1,15 @@
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\bin\Debug\net8.0\CafeteraProyecto.exe
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\bin\Debug\net8.0\CafeteraProyecto.deps.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\bin\Debug\net8.0\CafeteraProyecto.runtimeconfig.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\bin\Debug\net8.0\CafeteraProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\bin\Debug\net8.0\CafeteraProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.AssemblyInfoInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.AssemblyInfo.cs
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.csproj.CoreCompileInputs.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.sourcelink.json
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\refint\CafeteraProyecto.dll
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.pdb
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\CafeteraProyecto.genruntimeconfig.cache
+C:\Users\CursosTardes\Proyectos\PruebaClases\CafeteraSolucion\CafeteraSolucion\CafeteraProyecto\obj\Debug\net8.0\ref\CafeteraProyecto.dll
