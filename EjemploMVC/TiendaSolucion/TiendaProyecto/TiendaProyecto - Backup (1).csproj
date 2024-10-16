@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\a\Controllers\" />
+    <Folder Include="Areas\a\Data\" />
+    <Folder Include="Areas\a\Models\" />
+    <Folder Include="Areas\a\Views\" />
+    <Folder Include="Areas\Controller\Controllers\" />
+    <Folder Include="Areas\Controller\Data\" />
+    <Folder Include="Areas\Controller\Models\" />
+    <Folder Include="Areas\Controller\Views\" />
+    <Folder Include="Views\Prueba\" />
+  </ItemGroup>
+
+</Project>
